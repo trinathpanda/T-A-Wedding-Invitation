@@ -27,10 +27,10 @@ export default function VenueSection() {
             title: "Reception",
             date: "6th March 2026",
             time: "7:00 PM",
-            venue: "Digapahandi",
-            address: "Odisha, India",
-            mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30000!2d84.5!3d19.4!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3c7e0d0f0f0f0f%3A0x0!2sDigapahandi!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
-            directionsUrl: "https://maps.google.com/?q=Digapahandi+Odisha+India",
+            venue: "Panda Building",
+            address: "Panda building, Main road, Beside Canara Bank, Digapahandi, Ganjam, Odisha",
+            mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.5!2d84.373!3d19.383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3c7e0d0f0f0f0f%3A0x0!2sPanda+Building+Digapahandi!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+            directionsUrl: "https://maps.app.goo.gl/vZs4ZhxKRCNPiHWq9",
         },
     ];
 
