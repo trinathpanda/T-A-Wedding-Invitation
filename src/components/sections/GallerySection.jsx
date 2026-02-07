@@ -11,8 +11,7 @@ const galleryImages = [
     { id: 3, src: "/images/gallery/photo2.jpg", alt: "Gazebo pose with flowing gown" },
     { id: 4, src: "/images/gallery/photo7.jpg", alt: "Steps candid with colored lights" },
     { id: 5, src: "/images/gallery/photo1.jpg", alt: "Red arches night portrait" },
-    { id: 6, src: "/images/gallery/photo3.jpg", alt: "Garden portrait in black saree" },
-    { id: 7, src: "/images/gallery/photo6.jpg", alt: "Palace backdrop couple shot" },
+    { id: 6, src: "/images/gallery/photo6.jpg", alt: "Palace backdrop couple shot" },
 ];
 
 export default function GallerySection() {
